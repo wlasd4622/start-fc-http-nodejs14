@@ -1,3 +1,3 @@
 node_modules
-.s/
-*-lock.json
+.s
+.DS_Store
